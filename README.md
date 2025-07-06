@@ -32,5 +32,5 @@
 Склонируйте репозиторий:
 
 ```bash
-git clone https://github.com/S1rexred/NimboPulse-bot.git
+git clone https://github.com/S1rexred/NimboPulse.git
 cd NimboPulse-bot
