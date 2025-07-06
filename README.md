@@ -33,4 +33,4 @@
 
 ```bash
 git clone https://github.com/S1rexred/Nimbo-Pulse.git
-cd NimboPulse-bot
+cd Nimbo-Pulse
